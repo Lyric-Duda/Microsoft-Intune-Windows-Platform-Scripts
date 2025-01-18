@@ -1,0 +1,2 @@
+#This PowerShell Script creates a folder for the intune start menu layout located in "C:\ProgramData\Company Provisioning\Company Start Menu Layout"
+New-Item -ItemType Directory -Path "C:\ProgramData\Company Provisioning\Company Start Menu Layout" -Force
