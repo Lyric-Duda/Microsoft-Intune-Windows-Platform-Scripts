@@ -13,6 +13,6 @@
 
 # Referenced Links
 
-* [Get-Item: Microsoft Information](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-item?view=powershell-7.4)
-* [About Pipelines: Microsoft Information](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_pipelines?view=powershell-7.4)
-* [New-ItemProperty: Microsoft Information](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-itemproperty?view=powershell-7.4)
+* [PowerShell: Get-Item](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-item?view=powershell-7.4)
+* [PowerShell: About Pipelines](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_pipelines?view=powershell-7.4)
+* [PowerShell: New-ItemProperty](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-itemproperty?view=powershell-7.4)

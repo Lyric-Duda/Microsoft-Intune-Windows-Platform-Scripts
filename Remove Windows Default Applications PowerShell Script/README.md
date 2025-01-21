@@ -13,5 +13,5 @@
 
 # Referenced Links
 
-* [How do I totally REMOVE the "Xbox Game Bar" program from Windows 11](https://answers.microsoft.com/en-us/windows/forum/all/how-do-i-totally-remove-the-xbox-game-bar-program/912ea254-0bcd-491c-9a8a-385c74e399d5)
-* [Letsdoautomation's Github Information](https://github.com/letsdoautomation/windows-configuration-designer/tree/main/Remove%20Windows%2011%20bloatware%20and%20configure%20start%20menu)
+* [How to remove the "Xbox Game Bar" program from Windows 11](https://answers.microsoft.com/en-us/windows/forum/all/how-do-i-totally-remove-the-xbox-game-bar-program/912ea254-0bcd-491c-9a8a-385c74e399d5)
+* [Remove Windows 11 bloatware and configure start menu](https://github.com/letsdoautomation/windows-configuration-designer/tree/main/Remove%20Windows%2011%20bloatware%20and%20configure%20start%20menu)

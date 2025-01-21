@@ -14,4 +14,4 @@
 
 # Referenced Links
 
-* [Letsdoautomation's Github Information](https://github.com/letsdoautomation/powershell/tree/main/Remove%20Home%20and%20Gallery%20from%20File%20Explorer)
+* [Remove Home and Gallery from File Explorer](https://github.com/letsdoautomation/powershell/tree/main/Remove%20Home%20and%20Gallery%20from%20File%20Explorer)

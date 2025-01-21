@@ -14,4 +14,4 @@
 # Referenced Links
 
 * [Change Folder to Open File Explorer to by Default in Windows 10](https://www.tenforums.com/tutorials/3734-change-folder-open-file-explorer-default-windows-10-a.html)
-* [Set-ItemProperty: Microsoft Information](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/set-itemproperty?view=powershell-7.4)
+* [PowerShell: Set-ItemProperty](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/set-itemproperty?view=powershell-7.4)

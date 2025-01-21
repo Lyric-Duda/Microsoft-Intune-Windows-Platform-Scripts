@@ -16,4 +16,4 @@
 # Referenced Links
 
 * [Delete Desktop Icons: A Windows PowerShell Tip](https://www.sapien.com/blog/2014/10/16/delete-desktop-icons-a-windows-powershell-tip/)
-* [Remove-Item: Microsoft Information](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/remove-item?view=powershell-7.4)
+* [PowerShell: Remove-Item](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/remove-item?view=powershell-7.4)

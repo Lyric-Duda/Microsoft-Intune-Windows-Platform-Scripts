@@ -22,4 +22,4 @@
 
 # Referenced Links
 
-* [New-Item: Microsoft Information](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-item?view=powershell-7.4)
+* [PowerShell: New-Item](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-item?view=powershell-7.4)
