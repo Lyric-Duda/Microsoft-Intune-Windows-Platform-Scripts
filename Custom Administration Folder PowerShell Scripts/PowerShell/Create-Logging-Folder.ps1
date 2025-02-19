@@ -1,0 +1,2 @@
+#This PowerShell Script creates a folder for Win32 Application L*v logs located in "C:\ProgramData\Company Provisioning\Company Application Installation Logs"
+New-Item -ItemType Directory -Path "C:\ProgramData\Company Provisioning\Company Application Installation Logs" -Force
