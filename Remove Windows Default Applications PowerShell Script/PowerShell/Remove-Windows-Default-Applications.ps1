@@ -28,6 +28,7 @@ $remove = ("Clipchamp.Clipchamp",
 # For Loop to remove pre determined default Microsoft Windows applications
 foreach ($applications in $remove){
     
-    Get-AppxPackage -AllUsers | Where-Object {$_.Name -in $applications} | Remove-AppxPackage
+    Get-AppxPackage -AllUsers | Where-Object {$_.Name -in $applications} | Remove-AppxPackage -AllUsers
 
 }
+
