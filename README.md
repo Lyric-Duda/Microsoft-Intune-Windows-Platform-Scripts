@@ -4,4 +4,4 @@
 
 ## Intune Platform Scripts Overview
 
-![Intune Platform Scripts Overview](https://ldgithubimages.blob.core.windows.net/githubplatformscriptsreadmeimages/Platform%20Scripts/Platform%20Scripts.png)
+![Intune Platform Scripts Overview](https://pgithubstorageaccount.blob.core.windows.net/intune-github-images/Windows%20Platform%20Scripts%20Images/Platform%20Scripts.png)
